@@ -8,6 +8,7 @@ This example shows the all the function of library for DFPlayer.
 
 Created 2016-12-07
 By [Angelo qiao](Angelo.qiao@dfrobot.com)
+Update more doc by Chau 2023-12-09
 
 GNU Lesser General Public License.
 See <http://www.gnu.org/licenses/> for details.
